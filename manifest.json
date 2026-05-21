@@ -1,0 +1,9 @@
+{
+  "id": "deadline-bars",
+  "name": "Deadline Bars",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Automatically generates progress bar images that count down to deadlines.",
+  "author": "You",
+  "isDesktopOnly": true
+}
