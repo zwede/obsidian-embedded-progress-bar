@@ -20,4 +20,8 @@ The plugin will update the progress bars once a day.
 2. Reload Obsidian
 3. Enable the plugin in Obsidian settings under Community Plugins
 
+## Future Direction
 
+If this gets any traction I may develop it further and publish on obsidian plugins.
+This is my first time uploading a project to github!
+Most of the code was written by AI.
